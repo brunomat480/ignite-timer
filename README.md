@@ -7,7 +7,7 @@
 
 
 
-<img src="https://github.com/brunomat480/ignite-timer/issues/1#issue-3493517520" />
+<img src="https://github.com/user-attachments/assets/69eb38bc-21d9-4cbf-90db-ca735daa4abc" />
 
 ##
 
