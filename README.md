@@ -1,4 +1,4 @@
-# todo
+# Ignite Timer
 
 <div> 
   <p><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />ReactJS</p>
@@ -15,7 +15,7 @@
 
 Clone o repositório:
 ```bash
-git clone https://github.com/brunojosematias/todo-list.git
+git clone https://github.com/brunomat480/ignite-timer.git
 ```
 
 Baixe as dependencias:
